@@ -200,7 +200,8 @@ visualize_denoising(model, test_loader, num_images=10)
 ### OUTPUT
 
 ### Model Summary
-<img width="920" height="527" alt="image" src="https://github.com/user-attachments/assets/71e4e50f-50ef-478f-b5b8-b3a8d60d83da" />
+<img width="1049" height="669" alt="image" src="https://github.com/user-attachments/assets/09fe163b-696b-4b9a-94ea-5044dfd4002d" />
+
 
 ### Training loss
 <img width="486" height="187" alt="image" src="https://github.com/user-attachments/assets/a067ad7d-1f6f-4c99-b8f7-86bf413b351f" />
